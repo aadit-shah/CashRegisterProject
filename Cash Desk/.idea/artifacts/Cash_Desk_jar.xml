@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cash Desk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cash_Desk_jar</output-path>
+    <root id="archive" name="Cash Desk.jar">
+      <element id="module-output" name="Cash Desk" />
+    </root>
+  </artifact>
+</component>
